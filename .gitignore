@@ -1,7 +1,7 @@
 # STS(eclipse) project files #
 ##############################
--settings/
--classpath
+.settings/
+.classpath
 .project
 
 # Compiled class files #
